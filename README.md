@@ -1,6 +1,6 @@
 # WorkWeek
-Galaxy Watch watchface including date formatted as a work week with Monday set to day 1.
-This watchface was created using Galaxy Watch Designer
+Galaxy Watch watchface including date formatted as a work week with Monday set to day 1. For example, Thursday, June 6 would be formatted as WW23.4.
+This watchface was created using the Samsung Galaxy Watch Designer (GWD).
 
 Features include:
 o Date formatted as work week, with Monday set to day 1
