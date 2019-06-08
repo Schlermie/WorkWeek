@@ -11,3 +11,5 @@ o Floors climbed
 o Step counter
 o Battery charge gauge
 o Automatic power-saving Always On Mode (AOM)
+o Easy to read time at any angle
+o Low battery consumption
