@@ -4,7 +4,7 @@ This watchface was created using the Samsung Galaxy Watch Designer (GWD).
 
 Features include:
 o Date formatted as work week, with Monday set to day 1
-o Standad Day, Month, Date
+o Standard Day, Month, Date
 o 12hr time of day with seconds
 o Pulse rate
 o Floors climbed
