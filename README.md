@@ -1,4 +1,4 @@
-# WorkWeek v1.1.2
+# WorkWeek v1.1.3
 Galaxy Watch watchface including date formatted as a work week with Monday set to day 1. For example, Thursday, June 6 would be formatted as WW23.4.
 This watchface was created using the Samsung Galaxy Watch Designer (GWD).
 
@@ -14,4 +14,5 @@ o Battery charge gauge
 o Launch apps by tapping icons on watchface
 o Automatic power-saving Always On Mode (AOM)
 o Easy to read time at any angle
+o Minimal memory usage
 o Low battery consumption
